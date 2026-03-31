@@ -1,11 +1,16 @@
 # 🌐 Digital Literacy Portfolio  
 ### CSE0001 – Digital Literacy Project
 
-👨‍🎓 **Name:** Humaid Idris Khan 
+👨‍🎓 **Name:** Humaid Idris Khan
+
 🆔 **Registration Number:** 25BCE10959
-  **Branch:** CSE Core
-📅 **Year:** 1st Year B.Tech  
-🏫 **University:** VIT Bhopal University  
+
+🎨**Branch:** CSE Core
+
+📅 **Year:** 1st Year B.Tech
+
+🏫 **University:** VIT Bhopal University
+
 
 ---
 
